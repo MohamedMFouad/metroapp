@@ -1,0 +1,33 @@
+p, h1 , h4, a , label ,span , option, section {
+    font-family: 'Titillium Web', sans-serif;
+}
+ 
+
+
+    .ui-link {
+        background-color: white;
+        color: #06223f;
+        border: 2px solid #06223f;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin-left: 20px;
+        margin-right: 50%;
+        
+    }
+
+    label{
+        margin-right: 50%;
+        
+    }
+
+     .ui-footer .ui-title ,    .ui-mobile .ui-footer{
+        
+        visibility: hidden;
+        
+        
+    }
+
+ 
